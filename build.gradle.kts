@@ -32,7 +32,7 @@ dependencies {
 
 
 application {
-    mainClass.set("example.micronaut.Fs126Command")
+    mainClass.set("example.micronaut.DownloadCommand")
 }
 java {
     sourceCompatibility = JavaVersion.toVersion("17")
